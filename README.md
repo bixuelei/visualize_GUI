@@ -23,5 +23,5 @@ For example, if there is no installation of open3d in the process of running of 
 # How to run
 If you seccussfully train a model, you should save the pth(for pytorch) file under the directory of pipeline, and change the name to 'best.pth'. After that, you can directly use the following command to run the script.
 ```
-python visualize_interface
+python visualize_interface.py
 ```
