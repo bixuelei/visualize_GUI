@@ -1,4 +1,4 @@
-# visualize_GUI
+# Visualize_GUI
 a GUI design to display the result of neural network
 
 # Environments Requirement
